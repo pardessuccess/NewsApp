@@ -1,6 +1,6 @@
-package com.pardess.newsapp.data.remote
+package com.pardess.newsapp.data.network
 
-import com.pardess.newsapp.data.remote.dto.NewsResponse
+import com.pardess.newsapp.data.network.dto.NewsResponse
 import com.pardess.newsapp.util.Constants.API_KEY
 import retrofit2.http.GET
 import retrofit2.http.Query

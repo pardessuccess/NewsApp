@@ -1,4 +1,4 @@
-package com.pardess.newsapp.data.remote.dto
+package com.pardess.newsapp.data.network.dto
 
 import com.pardess.newsapp.data.entity.Article
 

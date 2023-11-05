@@ -5,7 +5,7 @@ import androidx.room.Room
 import com.pardess.newsapp.data.local.NewsDao
 import com.pardess.newsapp.data.local.NewsDatabase
 import com.pardess.newsapp.data.local.NewsTypeConvertor
-import com.pardess.newsapp.data.remote.NewsApi
+import com.pardess.newsapp.data.network.NewsApi
 import com.pardess.newsapp.util.Constants.BASE_URL
 import dagger.Module
 import dagger.Provides

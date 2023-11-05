@@ -4,9 +4,9 @@ import androidx.paging.Pager
 import androidx.paging.PagingConfig
 import androidx.paging.PagingData
 import com.pardess.newsapp.data.local.NewsDao
-import com.pardess.newsapp.data.remote.NewsPagingSource
-import com.pardess.newsapp.data.remote.NewsApi
-import com.pardess.newsapp.data.remote.SearchNewsPagingSource
+import com.pardess.newsapp.data.network.NewsPagingSource
+import com.pardess.newsapp.data.network.NewsApi
+import com.pardess.newsapp.data.network.SearchNewsPagingSource
 import com.pardess.newsapp.data.entity.Article
 import kotlinx.coroutines.flow.Flow
 import javax.inject.Inject
