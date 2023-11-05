@@ -4,6 +4,7 @@
 <img src="https://github.com/pardessuccess/NewsApp/assets/30859374/90bd978e-3c2d-4714-8284-2aa8ef7bd8e4" width="300" height="620"/>
 <img src="https://github.com/pardessuccess/NewsApp/assets/30859374/254ffc0d-985e-4d5b-a19f-648e0da36101" width="300" height="620"/>
 
+<br/>
 
 Compose UI
 
