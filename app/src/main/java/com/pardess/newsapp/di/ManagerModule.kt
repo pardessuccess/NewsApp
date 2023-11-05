@@ -1,7 +1,7 @@
 package com.pardess.newsapp.di
 
-import com.pardess.newsapp.data.manger.LocalUserManagerImpl
-import com.pardess.newsapp.data.manger.LocalUserManager
+import com.pardess.newsapp.data.manager.LocalUserManagerImpl
+import com.pardess.newsapp.data.manager.LocalUserManager
 import dagger.Binds
 import dagger.Module
 import dagger.hilt.InstallIn
@@ -14,5 +14,5 @@ abstract class ManagerModule {
 
     @Binds
     @Singleton
-    abstract fun bindLocalUserManager(localUserMangerImpl: LocalUserManagerImpl) : LocalUserManager
+    abstract fun bindLocalUserManager(localUserManagerImpl: LocalUserManagerImpl) : LocalUserManager
 }

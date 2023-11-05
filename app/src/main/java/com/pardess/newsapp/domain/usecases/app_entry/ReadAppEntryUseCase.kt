@@ -1,6 +1,6 @@
 package com.pardess.newsapp.domain.usecases.app_entry
 
-import com.pardess.newsapp.data.manger.LocalUserManager
+import com.pardess.newsapp.data.manager.LocalUserManager
 import kotlinx.coroutines.flow.Flow
 import javax.inject.Inject
 

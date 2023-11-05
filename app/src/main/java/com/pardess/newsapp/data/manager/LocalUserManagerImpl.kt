@@ -1,4 +1,4 @@
-package com.pardess.newsapp.data.manger
+package com.pardess.newsapp.data.manager
 
 import android.app.Application
 import android.content.Context
