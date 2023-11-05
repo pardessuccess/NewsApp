@@ -12,10 +12,10 @@ MVVM + Clean Architecture
 
 Library
 
-DI - Hilt
-Http - Retrofit
-Image - Coil
-DataStore - Datastore
-Local Database - Room
-Resource Management - Paging3
-Compose - navigation_compose, accompanist
+DI - Hilt <br/>
+Http - Retrofit <br/>
+Image - Coil <br/>
+DataStore - Datastore <br/>
+Local Database - Room <br/>
+Resource Management - Paging3 <br/>
+Compose - navigation_compose, accompanist <br/>
